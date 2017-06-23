@@ -1,0 +1,58 @@
+.Favorites {
+		color: rgb(150,100,190 );
+
+		font-weight: 800;
+
+	}
+
+	h1 {
+			color: rgb(102,0,51);
+		}
+		#Welcome {
+			color: rgb(150,100,190);
+		}
+		p {
+			font-size: 100%;
+		
+			line-height: 150%;
+		
+			font-style: oblique;
+		}
+		h1 {
+			text-align: center;
+			z-index: -1;
+
+				}
+
+		#image {
+			border-style: dashed;
+			border-width: 10px;
+			border-color: rgb(73,41,41);
+			padding: 20px;
+			margin: 20px;
+			width: 200px;
+		}
+
+		#photo {
+			border-style: dashed;
+			border-width: 10px;
+			border-color: rgb(120,100,100);
+			padding: 20px;
+			margin: 20px;
+			width: 200px;
+
+		}
+
+
+
+	p {
+		color: rgb(51,0,102);
+	}
+	h2 {
+		color: rgb(150,100,190);
+		text-align: center;
+	}
+
+
+
+	
